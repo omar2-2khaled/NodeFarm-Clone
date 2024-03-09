@@ -1,0 +1,1 @@
+readStart FILE : evaluate them using a user-defined evaluation function, and then output the result.
